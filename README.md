@@ -1,2 +1,2 @@
 # DBMS
-This reposting is form academic subject DBMS
+This repository is form academic subject DBMS
